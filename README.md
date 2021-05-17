@@ -1,2 +1,3 @@
 # Prokriti-Hasan
-just another respository
+I am new at programming.
+
