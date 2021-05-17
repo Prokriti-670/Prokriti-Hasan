@@ -1,0 +1,38 @@
+Serial No:1.
+             Name:Prokriti hasan
+            Order no.:1          Quantity:3 
+            Order no.:2          Quantity:4 
+            Order no.:15          Quantity:3 
+             Bill:3567.50
+Day,Date,Time & Year:Fri Apr 30 04:13:10 2021
+
+Serial No:2.
+             Name:Munmun Islam
+            Order no.:1          Quantity:3 
+            Order no.:13          Quantity:5 
+             Bill:7822.50
+Day,Date,Time & Year:Fri Apr 30 04:13:37 2021
+
+Serial No:3.
+             Name:Oythi Sanjana
+            Order no.:1          Quantity:3 
+            Order no.:2          Quantity:4 
+            Order no.:16          Quantity:3 
+             Bill:16795.00
+Day,Date,Time & Year:Fri Apr 30 04:14:10 2021
+
+Serial No:4.
+             Name:Fayaj nakib
+            Order no.:2          Quantity:3 
+            Order no.:3          Quantity:4 
+             Bill:20877.50
+Day,Date,Time & Year:Fri Apr 30 04:14:27 2021
+
+Serial No:5.
+             Name:Sultana razia
+            Order no.:1          Quantity:3 
+            Order no.:12          Quantity:4 
+            Order no.:16          Quantity:2 
+             Bill:28823.50
+Day,Date,Time & Year:Fri Apr 30 04:14:54 2021
+
